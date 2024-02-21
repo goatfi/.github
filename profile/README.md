@@ -14,6 +14,7 @@ Welcome to the Goat Protocol GitHub! This is the place where you'll find all Goa
 Checkout our repositories:
 - [goat-contracts](https://github.com/goatfi/contracts): The core contracts of the Goat Protocol.
 - [goat-address-book](https://github.com/goatfi/goat-address-book): Solidity registry for all smart contracts' addresses of the Goat Protocol.
+- [audits](https://github.com/goatfi/audits): Audits performed by external security researchers the Goat Protocol contracts.
 
 ---
 
